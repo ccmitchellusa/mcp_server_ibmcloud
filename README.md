@@ -1,4 +1,3 @@
-# mcp_server_ibmcloud
-MCP server which provides IBM Cloud as a tool for use by LLM's, eg. via Anthopic Claude Desktop or map-cli (open source).
+### Repo has moved
 
-Moving to http://github.com/IBM-Cloud/ibmcloud-mcp-server
+This project has moved to the official [IBM Cloud MCP Server](https://github.com/IBM-Cloud/ibmcloud-mcp-server) repo 
